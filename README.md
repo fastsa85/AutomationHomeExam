@@ -20,7 +20,7 @@ Preconditions:
 https://dotnet.microsoft.com/download/dotnet-core/2.1
 
 Steps:
-- Navigate to AutomationHomeExam project folder and execute Command: 
+- Navigate to AutomationHomeExam project folder and execute command: 
 dotnet test
 
 OR
@@ -32,7 +32,7 @@ Preconditions:
 
 Steps:
 - Adjust appsettings.json file as described in section Configuration
-- Navigate to AutomationHomeExam project folder and execute Command: 
+- Navigate to AutomationHomeExam project folder and execute command: 
 docker-compose up
 
 ## Test Results Reports
