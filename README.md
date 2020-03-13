@@ -40,7 +40,7 @@ Test Result Reports are stored in /Reports folder next to AutomationHomeExam.dll
 However Test Result Reports folder can be specified in appsettings.json file
 
 ## Configuration
-All parameters available for test run configuration see in appsettings.json file \n
+All parameters available for test run configuration see in appsettings.json file<br />
 Below are samples of different test run configuration appsettings.json
 
 ### 1. Configuration sample to run from local machine:
