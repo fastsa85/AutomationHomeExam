@@ -1,5 +1,7 @@
-# AutomationHomeExam
-Testing task
+# UI Tests With Selenium And Specflow
+ExampleUI Tests project using  .NetCore/C#.
+Uses Specflow BDD framework and Selenium Webdriver.
+Added option to run from Docker containers.
 
 ## Usage:
 
