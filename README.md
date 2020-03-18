@@ -32,11 +32,11 @@ Preconditions:
 
 Steps:
 - Adjust appsettings.json file as described in section Configuration
-- Navigate to AutomationHomeExam project folder and execute command: 
+- Navigate to UITests project folder and execute command: 
 docker-compose up
 
 ## Test Results Reports
-Test Result Reports are stored in /Reports folder next to AutomationHomeExam.dll (by default \bin\Debug\netcoreapp2.1)
+Test Result Reports are stored in /Reports folder next to UITests.dll (by default \bin\Debug\netcoreapp2.1)
 However Test Result Reports folder can be specified in appsettings.json file
 
 ## Configuration
