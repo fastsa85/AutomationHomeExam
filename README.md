@@ -1,7 +1,7 @@
 # UI Tests With Selenium And Specflow
-ExampleUI Tests project using  .NetCore/C#.
-Uses Specflow BDD framework and Selenium Webdriver.
-Added option to run from Docker containers.
+ExampleUI Tests project using  .NetCore/C#.<br />
+Uses Specflow BDD framework and Selenium Webdriver.<br />
+Added option to run from Docker containers.<br />
 
 ## Usage:
 
