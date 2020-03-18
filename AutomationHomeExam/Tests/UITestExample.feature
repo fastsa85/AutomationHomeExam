@@ -1,5 +1,5 @@
-﻿Feature: Automation Home Exam
-	Task for C# Automatiom QA Engineer from MWDN
+﻿Feature: UI Test Example
+	Simple example of UI test.
 
 @SmokeTest
 Scenario: Run the following steps
